@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Heart, Users, Star, Mail, Phone, ChevronRight, Menu, X } from 'lucide-react';
 import graceImage from './assets/GRACE 1.png';
 
